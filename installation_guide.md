@@ -21,7 +21,7 @@ $ which vim
 It should print the location of Vim binary, which should look something like this `/usr/bin/vim`
 
 - ## On Windows
-  - To download Vim visit vim.org
+  - To download Vim visit [vim.org](https://www.vim.org/)
   - Click on Download option from left pane
   - Click on PC - MS-DOS and MS-Windows option
   - Download .exe installer from this page. At the time of writing this tutorial installer name was gvim80.exe
