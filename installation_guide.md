@@ -37,4 +37,4 @@ $ which vim
 It should print the location of Vim binary, which should look something like this `/usr/bin/vim`
 
 - ## On Windows
-  - Follow the same instructions as above but on a WSL terminal depending on the Linux distribution.
+  - Follow the same instructions as above but on a WSL terminal depending on the Linux distribution. (Ubuntu Distro is prefered. Follow Debain based Linux installation instructions)
