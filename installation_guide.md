@@ -1,6 +1,6 @@
 ## Windows Subsystem for Linux Installation Guide for Windows 10
 
-- Follow [this guide](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+- Windows users can install WSL Ubuntu on their machines. Linux commands run well on WSL Terminal. Follow [this guide](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
 ## Vim - Installation
 
