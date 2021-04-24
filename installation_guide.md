@@ -4,7 +4,7 @@
 
 ## Vim - Installation
 
-- ## On Debian based Linux (like Ubuntu)
+- ## On Debian based Linux 
 Execute the commands below in terminal - 
 
 ```
@@ -20,10 +20,21 @@ $ which vim
 
 It should print the location of Vim binary, which should look something like this `/usr/bin/vim`
 
-- ## On Windows
-  - To download Vim visit [vim.org](https://www.vim.org/)
-  - Click on Download option from left pane
-  - Click on PC - MS-DOS and MS-Windows option
-  - Download .exe installer from this page. At the time of writing this tutorial installer name was gvim80.exe
-  - Double click on installer and follow on screen instructions to complete installation
+- ## On RPM based Linux
+Execute the commands below in terminal - 
 
+```
+$ su - 
+$ yum install vim
+```
+
+Check the installation of vim by runing the **which** command:
+
+```
+$ which vim
+```
+
+It should print the location of Vim binary, which should look something like this `/usr/bin/vim`
+
+- ## On Windows
+  - Follow the same instructions as above but on a WSL terminal depending on the Linux distribution.
