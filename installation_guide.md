@@ -42,7 +42,7 @@ It should print the location of Vim binary, which should look something like thi
 
 ## VSCode installation on WSL
 
-- First, install [Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) exntension on your VSCode.
+- First, install [Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) extension on your VSCode on Windows. 
 - Run the following command to install VSCode remote server
 
   ```
