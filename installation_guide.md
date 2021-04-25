@@ -39,3 +39,13 @@ It should print the location of Vim binary, which should look something like thi
 
 - ## On Windows
   - Follow the same instructions as above but on a WSL terminal depending on the Linux distribution. (Ubuntu Distro is prefered. Follow Debain based Linux installation instructions)
+
+## VSCode installation on WSL
+
+- First, install [Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) extension on your VSCode on Windows. 
+- Run the following command to install VSCode remote server
+
+  ```
+  $ code .
+  ```
+- After the above step, start VSCode in the desired path in WSL by `code .`
