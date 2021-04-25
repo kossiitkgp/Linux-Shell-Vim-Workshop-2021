@@ -7,3 +7,6 @@
 
 
 ## Refrences and Reading Material
+- [Practice problems for bash](https://grapheo12.github.io/yt-slides/bash-problems)
+- [learnshell.org](https://www.learnshell.org/)
+- [Basic to intermediate guide for Vim](https://danielmiessler.com/study/vim/)
